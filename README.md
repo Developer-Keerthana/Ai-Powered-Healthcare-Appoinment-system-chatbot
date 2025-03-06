@@ -77,3 +77,7 @@ reportlab
 
 ## 🏁 License
 This project is licensed under the **Apache 2.0 License**. 🚀
+
+## Credits
+This project was created by [Keerthana S T]().  
+Special thanks to [Contributor Name](https://github.com/contributorusername) for their valuable contributions.  
