@@ -78,6 +78,3 @@ reportlab
 ## 🏁 License
 This project is licensed under the **Apache 2.0 License**. 🚀
 
-## Credits
-This project was created by [Keerthana S T](https://github.com/Developer-Keerthana/Ai-Powered-Healthcare-Appoinment-system-chatbot.git).  
-Special thanks to [Sasidharan Balakrishnan  ](https://github.com/bsasidharan15/AI-Powered-Healthcare-Appointment-System.git) for their valuable contributions.  
